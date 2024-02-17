@@ -1,2 +1,1 @@
-# CodeIgniter
-Practicing PHP
+Php CRUD Note Taking Application.
